@@ -77,10 +77,13 @@ Our models achieve significant improvements over base Gemma 3n on Swahili benchm
 
 ### Swahili MMLU Results
 
+Benchmarking results/swahili-mmlu/plots/overall_performance.png
 
 ### Translation Performance (Perplexity - Lower is Better)
-- **English → Swahili**: 21.6 (E2B-it) vs 70.5 (base E4B-it)
-- **Swahili → English**: 23.5 (E2B-it) vs 38.8 (base E4B-it)
+
+Benchmarking results/english-swahili-translation-bench/plots/translation_performance_comparison.png
+
+Benchmarking results/english-swahili-translation-bench/plots/translation_perplexity_comparison.png
 
 These results demonstrate transformative gains in cross-lingual understanding.
 
