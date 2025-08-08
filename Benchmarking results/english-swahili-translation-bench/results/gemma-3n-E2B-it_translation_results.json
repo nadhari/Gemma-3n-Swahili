@@ -1,0 +1,52 @@
+{
+  "model_name": "gemma-3n-E2B-it",
+  "model_id": "unsloth/gemma-3n-E2B-it-unsloth-bnb-4bit",
+  "timestamp": "2025-08-08T16:49:55.052361",
+  "en_to_sw": {
+    "avg_perplexity": 30.4025,
+    "median_perplexity": 15.875,
+    "perplexity_score": 73.78424201595095,
+    "num_examples": 25,
+    "valid_examples": 25,
+    "example_translations": [
+      {
+        "type": "best",
+        "source": "Because this is one of the young of the species.",
+        "reference": "Kwa sababu huyu ni mmoja wa vijana wa spishi hiyo.",
+        "perplexity": 4.46875
+      },
+      {
+        "type": "worst",
+        "source": "Otherwise, stay out of the sun.",
+        "reference": "Vinginevyo, jiwe la jua lisikupende.",
+        "perplexity": 197.0
+      }
+    ]
+  },
+  "sw_to_en": {
+    "avg_perplexity": 123.823125,
+    "median_perplexity": 17.125,
+    "perplexity_score": 28.989651920740428,
+    "num_examples": 25,
+    "valid_examples": 25,
+    "example_translations": [
+      {
+        "type": "best",
+        "source": "Jua linaangaza kwenye paji la uso wa mwanamume huyo na ni lazima awe na joto akiwa na kofia.",
+        "reference": "The sun is shining on the man's forehead and he must be hot with the hat on.",
+        "perplexity": 2.25
+      },
+      {
+        "type": "worst",
+        "source": "Ndio, nilikuwa nikipika jibini iliyochomwa.",
+        "reference": "yeah well i was cooking me a grilled cheese",
+        "perplexity": 2256.0
+      }
+    ]
+  },
+  "overall": {
+    "avg_perplexity": 77.1128125,
+    "avg_score": 51.38694696834569
+  },
+  "evaluation_time_seconds": 99.49994
+}

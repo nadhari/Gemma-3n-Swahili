@@ -1,0 +1,52 @@
+{
+  "model_name": "gemma-3n-swahili-E4B-it",
+  "model_id": "Nadhari/gemma-3n-swahili-E4B-it",
+  "timestamp": "2025-08-08T16:48:29.713019",
+  "en_to_sw": {
+    "avg_perplexity": 23.2815625,
+    "median_perplexity": 8.9375,
+    "perplexity_score": 79.22996403045501,
+    "num_examples": 25,
+    "valid_examples": 25,
+    "example_translations": [
+      {
+        "type": "best",
+        "source": "Because this is one of the young of the species.",
+        "reference": "Kwa sababu huyu ni mmoja wa vijana wa spishi hiyo.",
+        "perplexity": 1.7265625
+      },
+      {
+        "type": "worst",
+        "source": "\"Mwanamke huyo alisema: \"\"Sijui, usiniambie wanawake wanaweza kufanya nini.\"",
+        "reference": "she said that i didn't said you know don't tell me what women can do",
+        "perplexity": 112.0
+      }
+    ]
+  },
+  "sw_to_en": {
+    "avg_perplexity": 37.24625,
+    "median_perplexity": 6.5625,
+    "perplexity_score": 68.90354899042802,
+    "num_examples": 25,
+    "valid_examples": 25,
+    "example_translations": [
+      {
+        "type": "best",
+        "source": "Mwanamume aliyevalia suruali fupi nyeusi amesimama mbele ya mlima uliofunikwa na theluji.",
+        "reference": "A man wearing black shorts is standing in front of a snow covered mountain.",
+        "perplexity": 2.203125
+      },
+      {
+        "type": "worst",
+        "source": "Ndio, nilikuwa nikipika jibini iliyochomwa.",
+        "reference": "yeah well i was cooking me a grilled cheese",
+        "perplexity": 588.0
+      }
+    ]
+  },
+  "overall": {
+    "avg_perplexity": 30.26390625,
+    "avg_score": 74.06675651044151
+  },
+  "evaluation_time_seconds": 99.069219
+}

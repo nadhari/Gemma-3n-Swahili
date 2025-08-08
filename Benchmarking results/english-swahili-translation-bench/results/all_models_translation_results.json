@@ -1,0 +1,210 @@
+{
+  "gemma-3n-swahili-E2B-it": {
+    "model_name": "gemma-3n-swahili-E2B-it",
+    "model_id": "Nadhari/gemma-3n-swahili-E2B-it",
+    "timestamp": "2025-08-08T16:46:41.110395",
+    "en_to_sw": {
+      "avg_perplexity": 23.425,
+      "median_perplexity": 7.15625,
+      "perplexity_score": 79.1164000169606,
+      "num_examples": 25,
+      "valid_examples": 25,
+      "example_translations": [
+        {
+          "type": "best",
+          "source": "Because this is one of the young of the species.",
+          "reference": "Kwa sababu huyu ni mmoja wa vijana wa spishi hiyo.",
+          "perplexity": 2.46875
+        },
+        {
+          "type": "worst",
+          "source": "Mchezaji wa kuteleza kwenye theluji anachukua njia ya mteremko chini ya mlima.",
+          "reference": "Skier takes a steep path down the mountain.",
+          "perplexity": 127.0
+        }
+      ]
+    },
+    "sw_to_en": {
+      "avg_perplexity": 38.77,
+      "median_perplexity": 6.53125,
+      "perplexity_score": 67.86158974986918,
+      "num_examples": 25,
+      "valid_examples": 25,
+      "example_translations": [
+        {
+          "type": "best",
+          "source": "Mwanamume aliyevalia suruali fupi nyeusi amesimama mbele ya mlima uliofunikwa na theluji.",
+          "reference": "A man wearing black shorts is standing in front of a snow covered mountain.",
+          "perplexity": 1.9375
+        },
+        {
+          "type": "worst",
+          "source": "Ndio, nilikuwa nikipika jibini iliyochomwa.",
+          "reference": "yeah well i was cooking me a grilled cheese",
+          "perplexity": 624.0
+        }
+      ]
+    },
+    "overall": {
+      "avg_perplexity": 31.097500000000004,
+      "avg_score": 73.48899488341489
+    },
+    "evaluation_time_seconds": 67.168214
+  },
+  "gemma-3n-swahili-E4B-it": {
+    "model_name": "gemma-3n-swahili-E4B-it",
+    "model_id": "Nadhari/gemma-3n-swahili-E4B-it",
+    "timestamp": "2025-08-08T16:48:29.713019",
+    "en_to_sw": {
+      "avg_perplexity": 23.2815625,
+      "median_perplexity": 8.9375,
+      "perplexity_score": 79.22996403045501,
+      "num_examples": 25,
+      "valid_examples": 25,
+      "example_translations": [
+        {
+          "type": "best",
+          "source": "Because this is one of the young of the species.",
+          "reference": "Kwa sababu huyu ni mmoja wa vijana wa spishi hiyo.",
+          "perplexity": 1.7265625
+        },
+        {
+          "type": "worst",
+          "source": "\"Mwanamke huyo alisema: \"\"Sijui, usiniambie wanawake wanaweza kufanya nini.\"",
+          "reference": "she said that i didn't said you know don't tell me what women can do",
+          "perplexity": 112.0
+        }
+      ]
+    },
+    "sw_to_en": {
+      "avg_perplexity": 37.24625,
+      "median_perplexity": 6.5625,
+      "perplexity_score": 68.90354899042802,
+      "num_examples": 25,
+      "valid_examples": 25,
+      "example_translations": [
+        {
+          "type": "best",
+          "source": "Mwanamume aliyevalia suruali fupi nyeusi amesimama mbele ya mlima uliofunikwa na theluji.",
+          "reference": "A man wearing black shorts is standing in front of a snow covered mountain.",
+          "perplexity": 2.203125
+        },
+        {
+          "type": "worst",
+          "source": "Ndio, nilikuwa nikipika jibini iliyochomwa.",
+          "reference": "yeah well i was cooking me a grilled cheese",
+          "perplexity": 588.0
+        }
+      ]
+    },
+    "overall": {
+      "avg_perplexity": 30.26390625,
+      "avg_score": 74.06675651044151
+    },
+    "evaluation_time_seconds": 99.069219
+  },
+  "gemma-3n-E2B-it": {
+    "model_name": "gemma-3n-E2B-it",
+    "model_id": "unsloth/gemma-3n-E2B-it-unsloth-bnb-4bit",
+    "timestamp": "2025-08-08T16:49:55.052361",
+    "en_to_sw": {
+      "avg_perplexity": 30.4025,
+      "median_perplexity": 15.875,
+      "perplexity_score": 73.78424201595095,
+      "num_examples": 25,
+      "valid_examples": 25,
+      "example_translations": [
+        {
+          "type": "best",
+          "source": "Because this is one of the young of the species.",
+          "reference": "Kwa sababu huyu ni mmoja wa vijana wa spishi hiyo.",
+          "perplexity": 4.46875
+        },
+        {
+          "type": "worst",
+          "source": "Otherwise, stay out of the sun.",
+          "reference": "Vinginevyo, jiwe la jua lisikupende.",
+          "perplexity": 197.0
+        }
+      ]
+    },
+    "sw_to_en": {
+      "avg_perplexity": 123.823125,
+      "median_perplexity": 17.125,
+      "perplexity_score": 28.989651920740428,
+      "num_examples": 25,
+      "valid_examples": 25,
+      "example_translations": [
+        {
+          "type": "best",
+          "source": "Jua linaangaza kwenye paji la uso wa mwanamume huyo na ni lazima awe na joto akiwa na kofia.",
+          "reference": "The sun is shining on the man's forehead and he must be hot with the hat on.",
+          "perplexity": 2.25
+        },
+        {
+          "type": "worst",
+          "source": "Ndio, nilikuwa nikipika jibini iliyochomwa.",
+          "reference": "yeah well i was cooking me a grilled cheese",
+          "perplexity": 2256.0
+        }
+      ]
+    },
+    "overall": {
+      "avg_perplexity": 77.1128125,
+      "avg_score": 51.38694696834569
+    },
+    "evaluation_time_seconds": 99.49994
+  },
+  "gemma-3n-E4B-it": {
+    "model_name": "gemma-3n-E4B-it",
+    "model_id": "unsloth/gemma-3n-E4B-it-unsloth-bnb-4bit",
+    "timestamp": "2025-08-08T16:51:55.819133",
+    "en_to_sw": {
+      "avg_perplexity": 46.840625,
+      "median_perplexity": 18.625,
+      "perplexity_score": 62.59991598347199,
+      "num_examples": 25,
+      "valid_examples": 25,
+      "example_translations": [
+        {
+          "type": "best",
+          "source": "Because this is one of the young of the species.",
+          "reference": "Kwa sababu huyu ni mmoja wa vijana wa spishi hiyo.",
+          "perplexity": 2.890625
+        },
+        {
+          "type": "worst",
+          "source": "Mchezaji wa kuteleza kwenye theluji anachukua njia ya mteremko chini ya mlima.",
+          "reference": "Skier takes a steep path down the mountain.",
+          "perplexity": 536.0
+        }
+      ]
+    },
+    "sw_to_en": {
+      "avg_perplexity": 108.89875,
+      "median_perplexity": 16.625,
+      "perplexity_score": 33.65570853020099,
+      "num_examples": 25,
+      "valid_examples": 25,
+      "example_translations": [
+        {
+          "type": "best",
+          "source": "Mwisho wa kusini wa Pichola una mtazamo bora wa ziwa, kuchukua katika visiwa viwili-majumba na CityPalace zaidi.",
+          "reference": "The southern end of Pichola has the best view of the lake, taking in the two island-palaces and the CityPalace beyond.",
+          "perplexity": 2.1875
+        },
+        {
+          "type": "worst",
+          "source": "Ndio, nilikuwa nikipika jibini iliyochomwa.",
+          "reference": "yeah well i was cooking me a grilled cheese",
+          "perplexity": 2048.0
+        }
+      ]
+    },
+    "overall": {
+      "avg_perplexity": 77.8696875,
+      "avg_score": 48.12781225683649
+    },
+    "evaluation_time_seconds": 105.311644
+  }
+}

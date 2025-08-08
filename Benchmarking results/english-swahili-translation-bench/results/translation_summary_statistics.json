@@ -1,0 +1,61 @@
+{
+  "evaluation_summary": {
+    "total_models": 4,
+    "total_en_to_sw_examples": 25,
+    "total_sw_to_en_examples": 25,
+    "evaluation_date": "2025-08-08",
+    "evaluation_method": "perplexity-based"
+  },
+  "model_rankings": [
+    {
+      "rank": 1,
+      "model": "gemma-3n-swahili-E4B-it",
+      "avg_score": 74.06675651044151,
+      "avg_perplexity": 30.26390625,
+      "en_to_sw_perplexity": 23.2815625,
+      "sw_to_en_perplexity": 37.24625
+    },
+    {
+      "rank": 2,
+      "model": "gemma-3n-swahili-E2B-it",
+      "avg_score": 73.48899488341489,
+      "avg_perplexity": 31.097500000000004,
+      "en_to_sw_perplexity": 23.425,
+      "sw_to_en_perplexity": 38.77
+    },
+    {
+      "rank": 3,
+      "model": "gemma-3n-E2B-it",
+      "avg_score": 51.38694696834569,
+      "avg_perplexity": 77.1128125,
+      "en_to_sw_perplexity": 30.4025,
+      "sw_to_en_perplexity": 123.823125
+    },
+    {
+      "rank": 4,
+      "model": "gemma-3n-E4B-it",
+      "avg_score": 48.12781225683649,
+      "avg_perplexity": 77.8696875,
+      "en_to_sw_perplexity": 46.840625,
+      "sw_to_en_perplexity": 108.89875
+    }
+  ],
+  "direction_comparison": {
+    "gemma-3n-swahili-E2B-it": {
+      "better_direction": "EN→SW",
+      "perplexity_difference": -15.345000000000002
+    },
+    "gemma-3n-swahili-E4B-it": {
+      "better_direction": "EN→SW",
+      "perplexity_difference": -13.964687500000004
+    },
+    "gemma-3n-E2B-it": {
+      "better_direction": "EN→SW",
+      "perplexity_difference": -93.420625
+    },
+    "gemma-3n-E4B-it": {
+      "better_direction": "EN→SW",
+      "perplexity_difference": -62.058125000000004
+    }
+  }
+}

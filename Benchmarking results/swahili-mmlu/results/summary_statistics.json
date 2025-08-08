@@ -1,0 +1,378 @@
+{
+  "evaluation_summary": {
+    "total_models": 4,
+    "total_test_examples": 13757,
+    "total_subjects": 57,
+    "evaluation_date": "2025-08-07"
+  },
+  "model_rankings": [
+    {
+      "rank": 1,
+      "model": "gemma-3n-swahili-E4B-it",
+      "overall_accuracy": 0.276,
+      "evaluation_time": 162.519052
+    },
+    {
+      "rank": 2,
+      "model": "gemma-3n-swahili-E2B-it",
+      "overall_accuracy": 0.272,
+      "evaluation_time": 130.554748
+    },
+    {
+      "rank": 3,
+      "model": "gemma-3n-E2B-it",
+      "overall_accuracy": 0.272,
+      "evaluation_time": 170.069488
+    },
+    {
+      "rank": 4,
+      "model": "gemma-3n-E4B-it",
+      "overall_accuracy": 0.246,
+      "evaluation_time": 179.588225
+    }
+  ],
+  "subject_performance": {
+    "abstract_algebra": {
+      "gemma-3n-swahili-E2B-it": 0.25,
+      "gemma-3n-swahili-E4B-it": 0.125,
+      "gemma-3n-E2B-it": 0.25,
+      "gemma-3n-E4B-it": 0.25
+    },
+    "anatomy": {
+      "gemma-3n-swahili-E2B-it": 0.25,
+      "gemma-3n-swahili-E4B-it": 0.25,
+      "gemma-3n-E2B-it": 0.25,
+      "gemma-3n-E4B-it": 0.25
+    },
+    "astronomy": {
+      "gemma-3n-swahili-E2B-it": 0.25,
+      "gemma-3n-swahili-E4B-it": 0.375,
+      "gemma-3n-E2B-it": 0.25,
+      "gemma-3n-E4B-it": 0.25
+    },
+    "business_ethics": {
+      "gemma-3n-swahili-E2B-it": 0.1111111111111111,
+      "gemma-3n-swahili-E4B-it": 0.2222222222222222,
+      "gemma-3n-E2B-it": 0.2222222222222222,
+      "gemma-3n-E4B-it": 0.0
+    },
+    "clinical_knowledge": {
+      "gemma-3n-swahili-E2B-it": 0.09090909090909091,
+      "gemma-3n-swahili-E4B-it": 0.09090909090909091,
+      "gemma-3n-E2B-it": 0.36363636363636365,
+      "gemma-3n-E4B-it": 0.18181818181818182
+    },
+    "college_biology": {
+      "gemma-3n-swahili-E2B-it": 0.25,
+      "gemma-3n-swahili-E4B-it": 0.25,
+      "gemma-3n-E2B-it": 0.375,
+      "gemma-3n-E4B-it": 0.375
+    },
+    "college_chemistry": {
+      "gemma-3n-swahili-E2B-it": 0.0,
+      "gemma-3n-swahili-E4B-it": 0.25,
+      "gemma-3n-E2B-it": 0.125,
+      "gemma-3n-E4B-it": 0.25
+    },
+    "college_computer_science": {
+      "gemma-3n-swahili-E2B-it": 0.25,
+      "gemma-3n-swahili-E4B-it": 0.0,
+      "gemma-3n-E2B-it": 0.0,
+      "gemma-3n-E4B-it": 0.25
+    },
+    "college_mathematics_test.csv_sw-KE.csv": {
+      "gemma-3n-swahili-E2B-it": 0.375,
+      "gemma-3n-swahili-E4B-it": 0.375,
+      "gemma-3n-E2B-it": 0.375,
+      "gemma-3n-E4B-it": 0.5
+    },
+    "college_medicine": {
+      "gemma-3n-swahili-E2B-it": 0.1111111111111111,
+      "gemma-3n-swahili-E4B-it": 0.4444444444444444,
+      "gemma-3n-E2B-it": 0.4444444444444444,
+      "gemma-3n-E4B-it": 0.4444444444444444
+    },
+    "college_physics": {
+      "gemma-3n-swahili-E2B-it": 0.125,
+      "gemma-3n-swahili-E4B-it": 0.25,
+      "gemma-3n-E2B-it": 0.25,
+      "gemma-3n-E4B-it": 0.25
+    },
+    "computer_security": {
+      "gemma-3n-swahili-E2B-it": 0.25,
+      "gemma-3n-swahili-E4B-it": 0.125,
+      "gemma-3n-E2B-it": 0.25,
+      "gemma-3n-E4B-it": 0.125
+    },
+    "conceptual_physics": {
+      "gemma-3n-swahili-E2B-it": 0.25,
+      "gemma-3n-swahili-E4B-it": 0.375,
+      "gemma-3n-E2B-it": 0.25,
+      "gemma-3n-E4B-it": 0.25
+    },
+    "econometrics": {
+      "gemma-3n-swahili-E2B-it": 0.0,
+      "gemma-3n-swahili-E4B-it": 0.5,
+      "gemma-3n-E2B-it": 0.375,
+      "gemma-3n-E4B-it": 0.375
+    },
+    "electrical_engineering": {
+      "gemma-3n-swahili-E2B-it": 0.3333333333333333,
+      "gemma-3n-swahili-E4B-it": 0.4444444444444444,
+      "gemma-3n-E2B-it": 0.4444444444444444,
+      "gemma-3n-E4B-it": 0.5555555555555556
+    },
+    "elementary_mathematics": {
+      "gemma-3n-swahili-E2B-it": 0.3333333333333333,
+      "gemma-3n-swahili-E4B-it": 0.3333333333333333,
+      "gemma-3n-E2B-it": 0.2222222222222222,
+      "gemma-3n-E4B-it": 0.2222222222222222
+    },
+    "formal_logic": {
+      "gemma-3n-swahili-E2B-it": 0.0,
+      "gemma-3n-swahili-E4B-it": 0.25,
+      "gemma-3n-E2B-it": 0.125,
+      "gemma-3n-E4B-it": 0.0
+    },
+    "global_facts": {
+      "gemma-3n-swahili-E2B-it": 0.5,
+      "gemma-3n-swahili-E4B-it": 0.5,
+      "gemma-3n-E2B-it": 0.375,
+      "gemma-3n-E4B-it": 0.5
+    },
+    "high_school_biology": {
+      "gemma-3n-swahili-E2B-it": 0.125,
+      "gemma-3n-swahili-E4B-it": 0.125,
+      "gemma-3n-E2B-it": 0.125,
+      "gemma-3n-E4B-it": 0.125
+    },
+    "high_school_chemistry": {
+      "gemma-3n-swahili-E2B-it": 0.5,
+      "gemma-3n-swahili-E4B-it": 0.125,
+      "gemma-3n-E2B-it": 0.125,
+      "gemma-3n-E4B-it": 0.25
+    },
+    "high_school_computer_science": {
+      "gemma-3n-swahili-E2B-it": 0.3333333333333333,
+      "gemma-3n-swahili-E4B-it": 0.4444444444444444,
+      "gemma-3n-E2B-it": 0.3333333333333333,
+      "gemma-3n-E4B-it": 0.3333333333333333
+    },
+    "high_school_european_history": {
+      "gemma-3n-swahili-E2B-it": 0.25,
+      "gemma-3n-swahili-E4B-it": 0.375,
+      "gemma-3n-E2B-it": 0.625,
+      "gemma-3n-E4B-it": 0.75
+    },
+    "high_school_geography": {
+      "gemma-3n-swahili-E2B-it": 0.1,
+      "gemma-3n-swahili-E4B-it": 0.2,
+      "gemma-3n-E2B-it": 0.4,
+      "gemma-3n-E4B-it": 0.4
+    },
+    "high_school_government_and_politics": {
+      "gemma-3n-swahili-E2B-it": 0.5,
+      "gemma-3n-swahili-E4B-it": 0.5,
+      "gemma-3n-E2B-it": 0.375,
+      "gemma-3n-E4B-it": 0.375
+    },
+    "high_school_macroeconomics": {
+      "gemma-3n-swahili-E2B-it": 0.18181818181818182,
+      "gemma-3n-swahili-E4B-it": 0.09090909090909091,
+      "gemma-3n-E2B-it": 0.0,
+      "gemma-3n-E4B-it": 0.0
+    },
+    "high_school_mathematics": {
+      "gemma-3n-swahili-E2B-it": 0.375,
+      "gemma-3n-swahili-E4B-it": 0.375,
+      "gemma-3n-E2B-it": 0.25,
+      "gemma-3n-E4B-it": 0.25
+    },
+    "high_school_microeconomics": {
+      "gemma-3n-swahili-E2B-it": 0.4,
+      "gemma-3n-swahili-E4B-it": 0.3,
+      "gemma-3n-E2B-it": 0.3,
+      "gemma-3n-E4B-it": 0.3
+    },
+    "high_school_physics": {
+      "gemma-3n-swahili-E2B-it": 0.125,
+      "gemma-3n-swahili-E4B-it": 0.125,
+      "gemma-3n-E2B-it": 0.125,
+      "gemma-3n-E4B-it": 0.0
+    },
+    "high_school_psychology": {
+      "gemma-3n-swahili-E2B-it": 0.36363636363636365,
+      "gemma-3n-swahili-E4B-it": 0.45454545454545453,
+      "gemma-3n-E2B-it": 0.36363636363636365,
+      "gemma-3n-E4B-it": 0.18181818181818182
+    },
+    "high_school_statistics": {
+      "gemma-3n-swahili-E2B-it": 0.3333333333333333,
+      "gemma-3n-swahili-E4B-it": 0.1111111111111111,
+      "gemma-3n-E2B-it": 0.1111111111111111,
+      "gemma-3n-E4B-it": 0.1111111111111111
+    },
+    "high_school_us_history": {
+      "gemma-3n-swahili-E2B-it": 0.3,
+      "gemma-3n-swahili-E4B-it": 0.3,
+      "gemma-3n-E2B-it": 0.3,
+      "gemma-3n-E4B-it": 0.4
+    },
+    "high_school_world_history": {
+      "gemma-3n-swahili-E2B-it": 0.3333333333333333,
+      "gemma-3n-swahili-E4B-it": 0.1111111111111111,
+      "gemma-3n-E2B-it": 0.1111111111111111,
+      "gemma-3n-E4B-it": 0.2222222222222222
+    },
+    "human_aging": {
+      "gemma-3n-swahili-E2B-it": 0.3,
+      "gemma-3n-swahili-E4B-it": 0.1,
+      "gemma-3n-E2B-it": 0.0,
+      "gemma-3n-E4B-it": 0.0
+    },
+    "human_sexuality": {
+      "gemma-3n-swahili-E2B-it": 0.125,
+      "gemma-3n-swahili-E4B-it": 0.5,
+      "gemma-3n-E2B-it": 0.375,
+      "gemma-3n-E4B-it": 0.5
+    },
+    "international_law": {
+      "gemma-3n-swahili-E2B-it": 0.25,
+      "gemma-3n-swahili-E4B-it": 0.25,
+      "gemma-3n-E2B-it": 0.375,
+      "gemma-3n-E4B-it": 0.125
+    },
+    "jurisprudence": {
+      "gemma-3n-swahili-E2B-it": 0.625,
+      "gemma-3n-swahili-E4B-it": 0.375,
+      "gemma-3n-E2B-it": 0.125,
+      "gemma-3n-E4B-it": 0.0
+    },
+    "logical_fallacies": {
+      "gemma-3n-swahili-E2B-it": 0.2222222222222222,
+      "gemma-3n-swahili-E4B-it": 0.3333333333333333,
+      "gemma-3n-E2B-it": 0.2222222222222222,
+      "gemma-3n-E4B-it": 0.2222222222222222
+    },
+    "machine_learning": {
+      "gemma-3n-swahili-E2B-it": 0.375,
+      "gemma-3n-swahili-E4B-it": 0.25,
+      "gemma-3n-E2B-it": 0.125,
+      "gemma-3n-E4B-it": 0.25
+    },
+    "management": {
+      "gemma-3n-swahili-E2B-it": 0.4444444444444444,
+      "gemma-3n-swahili-E4B-it": 0.2222222222222222,
+      "gemma-3n-E2B-it": 0.3333333333333333,
+      "gemma-3n-E4B-it": 0.3333333333333333
+    },
+    "marketing": {
+      "gemma-3n-swahili-E2B-it": 0.4444444444444444,
+      "gemma-3n-swahili-E4B-it": 0.5555555555555556,
+      "gemma-3n-E2B-it": 0.5555555555555556,
+      "gemma-3n-E4B-it": 0.4444444444444444
+    },
+    "medical_genetics": {
+      "gemma-3n-swahili-E2B-it": 0.375,
+      "gemma-3n-swahili-E4B-it": 0.25,
+      "gemma-3n-E2B-it": 0.125,
+      "gemma-3n-E4B-it": 0.0
+    },
+    "miscellaneous": {
+      "gemma-3n-swahili-E2B-it": 0.45454545454545453,
+      "gemma-3n-swahili-E4B-it": 0.18181818181818182,
+      "gemma-3n-E2B-it": 0.09090909090909091,
+      "gemma-3n-E4B-it": 0.09090909090909091
+    },
+    "moral_disputes": {
+      "gemma-3n-swahili-E2B-it": 0.3333333333333333,
+      "gemma-3n-swahili-E4B-it": 0.2222222222222222,
+      "gemma-3n-E2B-it": 0.3333333333333333,
+      "gemma-3n-E4B-it": 0.2222222222222222
+    },
+    "moral_scenarios": {
+      "gemma-3n-swahili-E2B-it": 0.45454545454545453,
+      "gemma-3n-swahili-E4B-it": 0.2727272727272727,
+      "gemma-3n-E2B-it": 0.09090909090909091,
+      "gemma-3n-E4B-it": 0.09090909090909091
+    },
+    "nutrition": {
+      "gemma-3n-swahili-E2B-it": 0.125,
+      "gemma-3n-swahili-E4B-it": 0.25,
+      "gemma-3n-E2B-it": 0.5,
+      "gemma-3n-E4B-it": 0.375
+    },
+    "philosophy": {
+      "gemma-3n-swahili-E2B-it": 0.125,
+      "gemma-3n-swahili-E4B-it": 0.25,
+      "gemma-3n-E2B-it": 0.375,
+      "gemma-3n-E4B-it": 0.375
+    },
+    "prehistory": {
+      "gemma-3n-swahili-E2B-it": 0.0,
+      "gemma-3n-swahili-E4B-it": 0.6666666666666666,
+      "gemma-3n-E2B-it": 0.5555555555555556,
+      "gemma-3n-E4B-it": 0.4444444444444444
+    },
+    "professional_accounting": {
+      "gemma-3n-swahili-E2B-it": 0.1,
+      "gemma-3n-swahili-E4B-it": 0.2,
+      "gemma-3n-E2B-it": 0.5,
+      "gemma-3n-E4B-it": 0.3
+    },
+    "professional_law": {
+      "gemma-3n-swahili-E2B-it": 0.18181818181818182,
+      "gemma-3n-swahili-E4B-it": 0.09090909090909091,
+      "gemma-3n-E2B-it": 0.18181818181818182,
+      "gemma-3n-E4B-it": 0.09090909090909091
+    },
+    "professional_medicine": {
+      "gemma-3n-swahili-E2B-it": 0.375,
+      "gemma-3n-swahili-E4B-it": 0.125,
+      "gemma-3n-E2B-it": 0.25,
+      "gemma-3n-E4B-it": 0.25
+    },
+    "professional_psychology": {
+      "gemma-3n-swahili-E2B-it": 0.5555555555555556,
+      "gemma-3n-swahili-E4B-it": 0.3333333333333333,
+      "gemma-3n-E2B-it": 0.3333333333333333,
+      "gemma-3n-E4B-it": 0.2222222222222222
+    },
+    "public_relations": {
+      "gemma-3n-swahili-E2B-it": 0.5,
+      "gemma-3n-swahili-E4B-it": 0.25,
+      "gemma-3n-E2B-it": 0.25,
+      "gemma-3n-E4B-it": 0.25
+    },
+    "security_studies_test-sw-KE.csv": {
+      "gemma-3n-swahili-E2B-it": 0.3333333333333333,
+      "gemma-3n-swahili-E4B-it": 0.3333333333333333,
+      "gemma-3n-E2B-it": 0.3333333333333333,
+      "gemma-3n-E4B-it": 0.2222222222222222
+    },
+    "sociology": {
+      "gemma-3n-swahili-E2B-it": 0.1111111111111111,
+      "gemma-3n-swahili-E4B-it": 0.3333333333333333,
+      "gemma-3n-E2B-it": 0.3333333333333333,
+      "gemma-3n-E4B-it": 0.3333333333333333
+    },
+    "us_foreign_policy": {
+      "gemma-3n-swahili-E2B-it": 0.25,
+      "gemma-3n-swahili-E4B-it": 0.25,
+      "gemma-3n-E2B-it": 0.25,
+      "gemma-3n-E4B-it": 0.125
+    },
+    "virology": {
+      "gemma-3n-swahili-E2B-it": 0.4444444444444444,
+      "gemma-3n-swahili-E4B-it": 0.3333333333333333,
+      "gemma-3n-E2B-it": 0.3333333333333333,
+      "gemma-3n-E4B-it": 0.1111111111111111
+    },
+    "world_religions": {
+      "gemma-3n-swahili-E2B-it": 0.0,
+      "gemma-3n-swahili-E4B-it": 0.125,
+      "gemma-3n-E2B-it": 0.125,
+      "gemma-3n-E4B-it": 0.125
+    }
+  }
+}

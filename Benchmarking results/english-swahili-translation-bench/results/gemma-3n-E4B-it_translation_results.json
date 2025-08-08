@@ -1,0 +1,52 @@
+{
+  "model_name": "gemma-3n-E4B-it",
+  "model_id": "unsloth/gemma-3n-E4B-it-unsloth-bnb-4bit",
+  "timestamp": "2025-08-08T16:51:55.819133",
+  "en_to_sw": {
+    "avg_perplexity": 46.840625,
+    "median_perplexity": 18.625,
+    "perplexity_score": 62.59991598347199,
+    "num_examples": 25,
+    "valid_examples": 25,
+    "example_translations": [
+      {
+        "type": "best",
+        "source": "Because this is one of the young of the species.",
+        "reference": "Kwa sababu huyu ni mmoja wa vijana wa spishi hiyo.",
+        "perplexity": 2.890625
+      },
+      {
+        "type": "worst",
+        "source": "Mchezaji wa kuteleza kwenye theluji anachukua njia ya mteremko chini ya mlima.",
+        "reference": "Skier takes a steep path down the mountain.",
+        "perplexity": 536.0
+      }
+    ]
+  },
+  "sw_to_en": {
+    "avg_perplexity": 108.89875,
+    "median_perplexity": 16.625,
+    "perplexity_score": 33.65570853020099,
+    "num_examples": 25,
+    "valid_examples": 25,
+    "example_translations": [
+      {
+        "type": "best",
+        "source": "Mwisho wa kusini wa Pichola una mtazamo bora wa ziwa, kuchukua katika visiwa viwili-majumba na CityPalace zaidi.",
+        "reference": "The southern end of Pichola has the best view of the lake, taking in the two island-palaces and the CityPalace beyond.",
+        "perplexity": 2.1875
+      },
+      {
+        "type": "worst",
+        "source": "Ndio, nilikuwa nikipika jibini iliyochomwa.",
+        "reference": "yeah well i was cooking me a grilled cheese",
+        "perplexity": 2048.0
+      }
+    ]
+  },
+  "overall": {
+    "avg_perplexity": 77.8696875,
+    "avg_score": 48.12781225683649
+  },
+  "evaluation_time_seconds": 105.311644
+}

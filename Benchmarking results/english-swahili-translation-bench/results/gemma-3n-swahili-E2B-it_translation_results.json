@@ -1,0 +1,52 @@
+{
+  "model_name": "gemma-3n-swahili-E2B-it",
+  "model_id": "Nadhari/gemma-3n-swahili-E2B-it",
+  "timestamp": "2025-08-08T16:46:41.110395",
+  "en_to_sw": {
+    "avg_perplexity": 23.425,
+    "median_perplexity": 7.15625,
+    "perplexity_score": 79.1164000169606,
+    "num_examples": 25,
+    "valid_examples": 25,
+    "example_translations": [
+      {
+        "type": "best",
+        "source": "Because this is one of the young of the species.",
+        "reference": "Kwa sababu huyu ni mmoja wa vijana wa spishi hiyo.",
+        "perplexity": 2.46875
+      },
+      {
+        "type": "worst",
+        "source": "Mchezaji wa kuteleza kwenye theluji anachukua njia ya mteremko chini ya mlima.",
+        "reference": "Skier takes a steep path down the mountain.",
+        "perplexity": 127.0
+      }
+    ]
+  },
+  "sw_to_en": {
+    "avg_perplexity": 38.77,
+    "median_perplexity": 6.53125,
+    "perplexity_score": 67.86158974986918,
+    "num_examples": 25,
+    "valid_examples": 25,
+    "example_translations": [
+      {
+        "type": "best",
+        "source": "Mwanamume aliyevalia suruali fupi nyeusi amesimama mbele ya mlima uliofunikwa na theluji.",
+        "reference": "A man wearing black shorts is standing in front of a snow covered mountain.",
+        "perplexity": 1.9375
+      },
+      {
+        "type": "worst",
+        "source": "Ndio, nilikuwa nikipika jibini iliyochomwa.",
+        "reference": "yeah well i was cooking me a grilled cheese",
+        "perplexity": 624.0
+      }
+    ]
+  },
+  "overall": {
+    "avg_perplexity": 31.097500000000004,
+    "avg_score": 73.48899488341489
+  },
+  "evaluation_time_seconds": 67.168214
+}
