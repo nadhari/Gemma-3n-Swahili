@@ -77,13 +77,19 @@ Our models achieve significant improvements over base Gemma 3n on Swahili benchm
 
 ### Swahili MMLU Results
 
-Benchmarking results/swahili-mmlu/plots/overall_performance.png
+<img width="3572" height="2366" alt="overall_performance" src="https://github.com/user-attachments/assets/b3e82ea3-8de8-4a0c-8267-d633be96034e" />
 
-### Translation Performance (Perplexity - Lower is Better)
 
-[Benchmarking results/english-swahili-translation-bench/plots/translation_performance_comparison.png](https://github.com/nadhari/Gemma-3n-Swahili/blob/main/Benchmarking%20results/english-swahili-translation-bench/plots/translation_performance_comparison.png)
+### Translation Performance 
 
-Benchmarking results/english-swahili-translation-bench/plots/translation_perplexity_comparison.png
+
+<img width="4739" height="3073" alt="translation_performance_comparison" src="https://github.com/user-attachments/assets/731e4eee-1c83-4033-9c98-4bc533997265" />
+
+
+
+<img width="3570" height="2970" alt="translation_perplexity_comparison" src="https://github.com/user-attachments/assets/9a46c49b-d693-4a2f-aba2-5322a6de7269" />
+
+
 
 These results demonstrate transformative gains in cross-lingual understanding.
 
