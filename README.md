@@ -150,5 +150,5 @@ For questions, suggestions, or collaborations:
 ---
 
 <div align="center">
-Made with ❤️ f
+Made with ❤️
 </div>
