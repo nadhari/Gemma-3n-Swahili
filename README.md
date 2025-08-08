@@ -20,7 +20,7 @@ Watch it in action: [📹 Phone Demo Video](https://youtube.com/shorts/K79-rfhQa
 
 ### iOS & Android Instructions:
 
-1. **Download PocketPal AI**
+1. **Download [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) app**
    - [📱 iOS App Store](https://apps.apple.com/us/app/pocketpal-ai/id6502579498)
    - [🤖 Google Play Store](https://play.google.com/store/apps/details?id=com.pocketpalai)
 
