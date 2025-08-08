@@ -81,7 +81,7 @@ Benchmarking results/swahili-mmlu/plots/overall_performance.png
 
 ### Translation Performance (Perplexity - Lower is Better)
 
-Benchmarking results/english-swahili-translation-bench/plots/translation_performance_comparison.png
+[Benchmarking results/english-swahili-translation-bench/plots/translation_performance_comparison.png](https://github.com/nadhari/Gemma-3n-Swahili/blob/main/Benchmarking%20results/english-swahili-translation-bench/plots/translation_performance_comparison.png)
 
 Benchmarking results/english-swahili-translation-bench/plots/translation_perplexity_comparison.png
 
