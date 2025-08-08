@@ -1,5 +1,5 @@
 
-<img width="1024" height="1024" alt="ChatGPT Image Aug 9, 2025, 03_56_16 AM" src="https://github.com/user-attachments/assets/6c31c54f-44cb-4b1e-b727-ab6c0fd6f665" />
+<img width="1024" height="512" alt="ChatGPT Image Aug 9, 2025, 03_56_16 AM" src="https://github.com/user-attachments/assets/6c31c54f-44cb-4b1e-b727-ab6c0fd6f665" />
 
 
 # Gemma-3n-Swahili: On-Device Universal Swahili AI Assistant
