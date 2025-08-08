@@ -101,6 +101,12 @@ We fine-tuned Gemma-3n models using:
 - **Dataset**: 10,000 high-quality Swahili instruction-response pairs from Bactrian-X
 - **Method**: LoRA fine-tuning with Unsloth framework
 - **Focus**: Language-specific improvements while preserving multimodal capabilities
+  
+<img width="1357" height="636" alt="Screenshot 2025-08-09 at 3 05 13" src="https://github.com/user-attachments/assets/cf6791e8-33d5-45b0-9ed1-b2c6ff1f2492" />
+
+<img width="1357" height="636" alt="Screenshot 2025-08-09 at 3 05 35" src="https://github.com/user-attachments/assets/05dbbd70-f879-412a-8d92-52c751b1f180" />
+
+  
 
 ### Key Features
 - ✅ Excellent Swahili understanding and generation
