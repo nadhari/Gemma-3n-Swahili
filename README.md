@@ -21,7 +21,11 @@ Experience Gemma-3n-Swahili instantly in your browser - no downloads, no setup, 
 
 ## 📱 Run on Your Phone
 
-Watch it in action: [📹 Phone Demo Video](https://youtube.com/shorts/K79-rfhQa-M?feature=share)
+### 📹 Watch Demo Video
+
+[![Phone Demo Video](https://img.shields.io/badge/▶️_Watch-Phone_Demo_Video-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/K79-rfhQa-M?feature=share)
+
+**[🎥 Click here to watch the phone demo on YouTube](https://youtube.com/shorts/K79-rfhQa-M?feature=share)**
 
 ### iOS & Android Instructions:
 
